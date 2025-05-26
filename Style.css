@@ -17,6 +17,9 @@ body{
 h1, h3{
 	font-family: "Oswald",sans-serif;
 }
+p {
+	font-family: "roboto";
+}
 h2, h1 {text-align: center;}
 
 .container {
@@ -28,18 +31,26 @@ h2, h1 {text-align: center;}
 		width: 500px;
 	}
 }
-img	{max-width: 420px}
+img	{max-width: 300px}
 
 	div { 
+		margin: 50px;
+		padding: 50px;
+		background: #FFFDD0;
 		border-top: 1 px solid red;
 		border-right: 2px solid darkred;
 		border-bottom: 1px solid darkred;
 		border-left: 2px solid darkred;
 		border-radius: 3px;
-		box-shadow: 5px red;
+		border-shadow: 5px red;
+	
 	}
-/* absolute */
-	p {width: 50px
-		;}
 
+p {
+
+}
+<img src="img/snnake.gif">	{
+	width: 300px;
+	margin: 0 auto;
+}
 
