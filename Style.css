@@ -35,7 +35,11 @@ img	{max-width: 420px}
 		border-right: 2px solid black;
 		border-bottom: 1px solid green;
 		border-left: 2px solid black;
+		border-radius: 3px;
+		box-shadow: 2px red;
 	}
-
+/* absolute */
+	p {width: 50px
+		;}
 
 
