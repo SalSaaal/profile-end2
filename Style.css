@@ -32,9 +32,9 @@ img	{max-width: 420px}
 
 	div { 
 		border-top: 1 px solid red;
-		border-right: 2px solid black;
-		border-bottom: 1px solid green;
-		border-left: 2px solid black;
+		border-right: 2px solid darkred;
+		border-bottom: 1px solid darkred;
+		border-left: 2px solid darkred;
 		border-radius: 3px;
 		box-shadow: 5px red;
 	}
