@@ -1,0 +1,41 @@
+h1 {
+	font-size: 50px;
+	color: #0065cc;}
+h2 {
+	font-family: "Codystar";
+	font-size: 80px;
+	color: #ff0000;}
+
+h1 {font-family:Oswald;}
+h3 {font-family:Roboto}
+body{
+	background:#ead1dc;
+	color: #330033;
+	font-family:"roboto",sans-serif;
+	font-size: 17px;
+}
+h1, h3{
+	font-family: "Oswald",sans-serif;
+}
+h2, h1 {text-align: center;}
+
+.container {
+	width: 700px;
+	margin: 48px auto;
+}
+@media (max-width: 720px) {
+	.container {
+		width: 500px;
+	}
+}
+img	{max-width: 420px}
+
+	div { 
+		border-top: 1 px solid red;
+		border-right: 2px solid black;
+		border-bottom: 1px solid green;
+		border-left: 2px solid black;
+	}
+
+
+
